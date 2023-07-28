@@ -25,8 +25,23 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
+![Anaconda](https://img.shields.io/badge/-Anaconda%20-05122A?style=flat&logo=anaconda)&nbsp;
+![PyCharm](https://img.shields.io/badge/-PyCharm%20-05122A?style=flat&logo=pyCharm)&nbsp;
+![Apache NetBeans IDE](https://img.shields.io/badge/-Apache%20NetBeans%20IDE%20-05122A?style=flat&logo=apachenetbeanside)&nbsp;
+![Jupyter](https://img.shields.io/badge/-Jupyter%20-05122A?style=flat&logo=jupyter)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+![C](https://img.shields.io/badge/-C%20-05122A?style=flat&logo=c)&nbsp;
+![C++](https://img.shields.io/badge/-C++%20-05122A?style=flat&logo=cplusplus)&nbsp;
+![Java](https://img.shields.io/badge/-Java%20-05122A?style=flat&logo=java&logoColor=white)&nbsp;
+![Codeforces](https://img.shields.io/badge/-Codeforces%20-05122A?style=flat&logo=codeforces)&nbsp;
+![Kaggle](https://img.shields.io/badge/-Kaggle%20-05122A?style=flat&logo=Kaggle)&nbsp;
+![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow%20-05122A?style=flat&logo=stackoverflow)&nbsp;
+![Coursera](https://img.shields.io/badge/-Coursera%20-05122A?style=flat&logo=coursera)&nbsp;
+![Hypothesis](https://img.shields.io/badge/-Hypothesis%20-05122A?style=flat&logo=hypothesis)&nbsp;
+![JSON](https://img.shields.io/badge/-JSON%20-05122A?style=flat&logo=json)&nbsp;
+![Numpy](https://img.shields.io/badge/-Numpy%20-05122A?style=flat&logo=numpy)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas%20-05122A?style=flat&logo=pandas)&nbsp;
+![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel%20-05122A?style=flat&logo=microsoftexcel)&nbsp;
 
 
 
